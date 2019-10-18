@@ -1,3 +1,2 @@
 # best-repro-ever
-# added this line as a test
-# this is the added line in new branch 2
+# added this line as a test - have changed this line within the new branch 1
